@@ -30,4 +30,15 @@ npm test
 ## ✅ Test Execution Results
 ![Screenshot 2025-03-12 233946](https://github.com/user-attachments/assets/29d1998d-0aed-4313-86c4-0997b09beb05)
 
+## 📂 Project Structure
+```
+merge_sort_project/
+│── src/
+│   ├── merge.ts            # Implementation of the merge function
+│   ├── merge.test.ts       # Unit tests using Jest
+│── package.json            # Project dependencies and scripts
+│── tsconfig.json           # TypeScript configuration
+│── jest.config.js          # Jest configuration
+│── README.md               # Project documentation
+```
 
